@@ -9,7 +9,7 @@
 </p>
 
 ## About me 🛸
-My name is Putthiphon Janklan But you can call me " Ice " <br>
+My name is Putthiphon Janklan But you can call me " Aite " <br>
 Or then also known as " PiinZlop " <br>
 Nice to meet you naa 
 
