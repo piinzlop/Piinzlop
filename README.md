@@ -13,7 +13,7 @@ My name is Putthiphon Janklan But you can call me " Aite " <br>
 Or then also known as " PiinZlop " <br>
 Nice to meet you naa 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piinzlop&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piinzlop&layout=compact)
 <img src="https://github.com/piinzlop/Image/blob/main/image1.jpg?raw=true">
 
 
