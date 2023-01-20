@@ -13,7 +13,7 @@ My name is Putthiphon Janklan But you can call me " Aite " <br>
 Or then also known as " PiinZlop " <br>
 Nice to meet you naa 
 
-<img src="https://github.com/piinzlop/Image/blob/main/image1.jpg">
+<img src="https://github.com/piinzlop/Image/blob/main/image1.jpg " width="auto" height="150">
 
 
 
