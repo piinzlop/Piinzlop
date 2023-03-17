@@ -13,10 +13,6 @@ My name is Putthiphon Janklan But you can call me " Aite " <br>
 Or then also known as " PiinZlop " <br>
 Nice to meet you naa 
 
-<p align="center">
-<img src="https://github.com/piinzlop/Image/blob/main/image1.jpg " width="auto" height="970">
-</p>
-
 
 <!--
 **piinzlop/piinzlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
